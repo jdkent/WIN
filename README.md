@@ -26,6 +26,10 @@ This will currently just be a simple place to find all the (electronic) resource
 |Frida Tehran   |Stacey Peek    |
 |Rachel Clark   |Maria Noterman |
 
+## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
+
+The form to fill out when giving feedback on a collegue's writing.
+
 ## Posts/Resources
 
 <ul>
