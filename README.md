@@ -39,3 +39,7 @@ The form to fill out when giving feedback on a collegue's writing.
     </li>
   {% endfor %}
 </ul>
+
+## Other Links
+
+- [How to write a Fellowship](assets/Fellowships_training plan ideas_181108.pdf)
