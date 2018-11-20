@@ -9,7 +9,7 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2018-08-28 |  Krystal Parker  |      Grantsmanship      |     Banu & Maria     |  Stacey & Rachel |
 | 2018-09-18 | Colleen Campbell |    Science Engagement   |     McCall & Gail    |   Vicky & Banu   |
 | 2018-10-30 |    Eric Taylor   |      Grantsmanship      |    Kelsey & Stacey   |  Benton & Frida  |
-| 2018-11-27 |  Matt Gilchrest  |  Research Communication |      Ben & Vicky     |  Maria & McCall  |
+| 2018-11-27 |  Matt Gilchrist  |  Research Communication |      Ben & Vicky     |  Maria & McCall  |
 | 2019-01-29 |   Mark Blumberg  | Popular Science Writing |    Frida & Benton    |  Kelsey & James  |
 | 2019-02-19 |        TBA       |           TBA           |     Tien & Rachel    |        Lex       |
 | 2019-03-19 |        TBA       |           TBA           |      Lex & James     |    Ben & Gail    |
