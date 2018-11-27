@@ -17,14 +17,14 @@ This will currently just be a simple place to find all the (electronic) resource
 
 ## Groups for next meeting (2018-10-30)
 
-|    Group 1    |    Group 2    |
+| Group 1 (Ben) |Group 2 (Vicky)|
 |:-------------:|:-------------:|
-|Benton Purnell |Frida Tehran   |
-|James Kent     |Gail Harmata   |
-|Vicky Ewald    |Banu Gumusoglu |
-|McCall Sarrett |Benjamin Rangel|
-|Tien Tong      |Lex Gomez      |
-|Rachel Cole    |Maria Noterman |
+|McCall Sarrett |Maria Noterman |
+|Benton Purnell | Stacey Peek   |
+|James Kent     |Frida Tehran   |
+|Tien Tong      |Banu Gumusoglu |
+|Rachel Cole    |Lex Gomez      |
+|Gail Harmata   |Kelsey Heslin  |
 
 ## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
 
