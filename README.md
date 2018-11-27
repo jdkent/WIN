@@ -15,7 +15,7 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2019-03-19 |        TBA       |           TBA           |      Lex & James     |    Ben & Gail    |
 | 2019-04-19 |        TBA       |           TBA           |          TBA         |       Tien       |
 
-## Groups for next meeting (2018-10-30)
+## Groups for next meeting (2018-11-27)
 
 | Group 1 (Ben) |Group 2 (Vicky)|
 |:-------------:|:-------------:|
