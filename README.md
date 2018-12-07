@@ -11,8 +11,8 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2018-10-30 |    Eric Taylor   |      Grantsmanship      |    Kelsey & Stacey   |  Benton & Frida  |
 | 2018-11-27 |  Matt Gilchrist  |  Research Communication |      Ben & Vicky     |  Maria & McCall  |
 | 2019-01-29 |   Mark Blumberg  | Popular Science Writing |    Frida & Benton    |  Kelsey & James  |
-| 2019-02-19 |        TBA       |           TBA           |     Tien & Rachel    |        Lex       |
-| 2019-03-19 |        TBA       |           TBA           |      Lex & James     |    Ben & Gail    |
+| 2019-02-26 |        TBA       |           TBA           |     Tien & Rachel    |        Lex       |
+| 2019-03-26 |        TBA       |           TBA           |      Lex & James     |    Ben & Gail    |
 | 2019-04-19 |        TBA       |           TBA           |          TBA         |       Tien       |
 
 ## Groups for next meeting (2018-11-27)
