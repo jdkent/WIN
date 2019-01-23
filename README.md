@@ -15,16 +15,16 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2019-03-26 |        TBA       |           TBA           |      Lex & James     |    Ben & Gail    |
 | 2019-04-19 |        TBA       |           TBA           |          TBA         |       Tien       |
 
-## Groups for next meeting (2018-11-27)
+## Groups for next meeting (2019-01-29)
 
-| Group 1 (Ben) |Group 2 (Vicky)|
-|:-------------:|:-------------:|
-|McCall Sarrett |Maria Noterman |
-|Benton Purnell | Stacey Peek   |
-|James Kent     |Frida Tehran   |
-|Tien Tong      |Banu Gumusoglu |
-|Rachel Cole    |Lex Gomez      |
-|Gail Harmata   |Kelsey Heslin  |
+| Group 1 (Benton)|Group 2 (Frida)|
+|:---------------:|:---------------:|
+|Kelsey Heslin    |James Kent       |
+|Lex Gomez        |Benjamin Rangel  |
+|Tien Tong        |McCall Sarrett   |
+|Stacey Peek      |Vicky Ewald      |
+|Gail Harmata     |Rachel Cole      |
+|Maria Noterman   |Banu Gumusoglu   |
 
 ## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
 
