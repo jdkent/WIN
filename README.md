@@ -42,4 +42,5 @@ The form to fill out when giving feedback on a collegue's writing.
 
 ## Other Links
 
-- [How to write a Fellowship](assets/Fellowships_training plan ideas_181108.pdf)
+- [Grant Writing Template: A starting point for NIH Fellowship applications]({{"assets/Template-NIH Fellowship Research Plan 2019_02_01.docx" | relative_url}})
+- [How to write a Fellowship]({{"assets/Fellowships_training plan ideas_181108.pdf" | relative_url}})
