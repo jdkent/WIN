@@ -13,7 +13,7 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2019-01-29 |   Mark Blumberg  | Popular Science Writing |    Frida & Benton    |  Kelsey & James  |
 | 2019-02-26 |   Megan Knight   |   Writing in Pedagogy   |     Tien & Rachel    |    Lex & Banu    |
 | 2019-03-26 |    Dan Tranel    |    Academic Writing     |         Lex          |    Ben & Gail    |
-| 2019-04-19 |Jennifer Barr<br>Christine Blaumueller<br>Marie Gaine  |           TBA           |          James         |       Tien       |
+| 2019-04-30 |Jennifer Barr<br>Christine Blaumueller<br>Marie Gaine  |           TBA           |          James         |       Tien       |
 
 ## Groups for next meeting (2019-02-26)
 
