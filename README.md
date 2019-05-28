@@ -15,16 +15,16 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2019-03-26 |    Dan Tranel    |    Academic Writing     |         Lex          |    Ben & Gail    |
 | 2019-04-30 |Jennifer Barr<br>Christine Blaumueller<br>Marie Gaine  |           TBA           |          James         |       Tien       |
 
-## Groups for next meeting (2019-02-26)
+## Groups for next meeting (TBA)
 
-| Group 1 (Tien)  |Group 2 (Rachel) |
+| Group 1 (TBA)  |Group 2 (TBA) |
 |:---------------:|:---------------:|
-|Lex Gomez        |Banu Gumusoglu   |
-|Kelsey Heslin    |Benjamin Rangel  |
-|James Kent       |McCall Sarrett   |
-|Benton Purnell   |Stacey Peek      |
-|Frida Tehran     |Vickie Ewald     |
-|Gail Harmata     |Maria Noterman   |
+|TBA        |TBA   |
+|TBA    |TBA  |
+|TBA       |TBA   |
+|TBA   |TBA      |
+|TBA     |TBA    |
+|TBA     |TBA   |
 
 ## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
 
