@@ -6,25 +6,26 @@ This will currently just be a simple place to find all the (electronic) resource
 
 |    Date    |      Speaker     |          Topic          | Submitting Author(s) | Lead Reviewer(s) |
 |:----------:|:----------------:|:-----------------------:|:--------------------:|:----------------:|
-| 2018-08-28 |  Krystal Parker  |      Grantsmanship      |     Banu & Maria     |  Stacey & Rachel |
-| 2018-09-18 | Colleen Campbell |    Science Engagement   |     McCall & Gail    |   Vicky & Banu   |
-| 2018-10-30 |    Eric Taylor   |      Grantsmanship      |    Kelsey & Stacey   |  Benton & Frida  |
-| 2018-11-27 |  Matt Gilchrist  |  Research Communication |      Ben & Vicky     |  Maria & McCall  |
-| 2019-01-29 |   Mark Blumberg  | Popular Science Writing |    Frida & Benton    |  Kelsey & James  |
-| 2019-02-26 |   Megan Knight   |   Writing in Pedagogy   |     Tien & Rachel    |    Lex & Banu    |
-| 2019-03-26 |    Dan Tranel    |    Academic Writing     |         Lex          |    Ben & Gail    |
-| 2019-04-30 |Jennifer Barr<br>Christine Blaumueller<br>Marie Gaine  |           TBA           |          James         |       Tien       |
+| 2019-09-03 | Aislinn Williams |      CV/Biosketch       |     Banu & Kelsey    |  Maria & Gail    |
+| 2019-10-01 |     TBA          |      TBA                |     Gail & James     |  Kelsey & Banu   |
+| 2019-11-05 |     TBA          |      TBA                |    Maria & Katelyn   |  James & Emily   |
+| 2019-12-03 |     TBA          |      TBA                |    Emily & Parker    | Katelyn & Marco  |
+| 2020-02-?? |     TBA          |      TBA                |    Marco & Carolina  |   Parker & Alex  |
+| 2020-03-?? |     TBA          |      TBA                |    Alex & Margaret   |Carolina & Rachel |
+| 2020-04-?? |     TBA          |      TBA                |    Rachel & Kelle    |    Tien & Tim    |
+| 2020-05-?? |     TBA          |      TBA                |      Tien & Tim      |Kelle & Margaret  |
 
 ## Groups for next meeting (TBA)
 
-| Group 1 (TBA)  |Group 2 (TBA) |
+| Group 1 (Banu)  |Group 2 (Kelsey) |
 |:---------------:|:---------------:|
-|TBA        |TBA   |
-|TBA    |TBA  |
-|TBA       |TBA   |
-|TBA   |TBA      |
-|TBA     |TBA    |
-|TBA     |TBA   |
+| Maria           | Gail            |
+| Emily           | Rachel          |
+| Katelyn         | Margaret        |
+| Marco           | Kelle           |
+| Parker          | Tim             |
+| Alex            | Tien            |
+| Carolina        | James           |
 
 ## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
 
