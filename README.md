@@ -15,7 +15,7 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2020-04-?? |     TBA          |      TBA                |    Rachel & Kelle    |    Tien & Tim    |
 | 2020-05-?? |     TBA          |      TBA                |      Tien & Tim      |Kelle & Margaret  |
 
-## Groups for next meeting (TBA)
+## Groups for next meeting (2019-09-03)
 
 | Group 1 (Banu)  |Group 2 (Kelsey) |
 |:---------------:|:---------------:|
