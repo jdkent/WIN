@@ -2,6 +2,8 @@
 
 This will currently just be a simple place to find all the (electronic) resources shared at the meetings.
 
+## [Overview of WIN]({{"/assets/Wri.Init.Neuro_workshop overview.docx" | relative_url}})
+
 ## Schedule of Events
 
 |    Date    |      Speaker     |          Topic          | Submitting Author(s) | Lead Reviewer(s) |
@@ -27,9 +29,13 @@ This will currently just be a simple place to find all the (electronic) resource
 | Alex            | Tien            |
 | Carolina        | James           |
 
-## [Reviwer Guide]({{"/assets/2018 Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
+## [Reviewer Instructions]({{"/assets/Wri.Init.Neuro_instructions.docx" | relative_url}})
 
-The form to fill out when giving feedback on a collegue's writing.
+The Reviewer Intructions tell you how to review a writing sample, complete with examples!
+
+## [Reviwer Form]({{"assets/Wri.Init.Neuro_Reviewer Form.docx" | relative_url}})
+
+The reviewer form is where you write your feedback about the writing sample.
 
 ## Posts/Resources
 
