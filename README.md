@@ -17,17 +17,17 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2020-04-?? |     TBA          |      TBA                |    Rachel & Kelle    |    Tien & Tim    |
 | 2020-05-?? |     TBA          |      TBA                |      Tien & Tim      |Kelle & Margaret  |
 
-## Groups for next meeting (2019-09-03)
+## Groups for next meeting (2019-10-01)
 
-| Group 1 (Banu)  |Group 2 (Kelsey) |
+| Group 1 (Gail)  |Group 2 (James)  |
 |:---------------:|:---------------:|
-| Maria           | Gail            |
-| Emily           | Rachel          |
-| Katelyn         | Margaret        |
-| Marco           | Kelle           |
-| Parker          | Tim             |
-| Alex            | Tien            |
-| Carolina        | James           |
+| TBA           | TBA            |
+| TBA           | TBA          |
+| TBA         | TBA        |
+| TBA           | TBA           |
+| TBA          | TBA             |
+| TBA            | TBA            |
+| TBA        | TBA           |
 
 ## [Reviewer Instructions]({{"/assets/Wri.Init.Neuro_instructions.docx" | relative_url}})
 
