@@ -10,7 +10,7 @@ This will currently just be a simple place to find all the (electronic) resource
 |:----------:|:----------------:|:-----------------------:|:--------------------:|:----------------:|
 | 2019-09-03 | Aislinn Williams |      CV/Biosketch       |     Banu & Kelsey    |  Maria & Gail    |
 | 2019-10-01 | Megan Knight     |  Writing in Pedagogy    |     Gail & James     |  Kelsey & Banu   |
-| 2019-11-05 |     TBA          |      TBA                |    Maria & Katelyn   |  James & Emily   |
+| 2019-11-05 | Mark Blumberg    | Popular Science Writing |    Maria & Katelyn   |  James & Emily   |
 | 2019-12-03 |     TBA          |      TBA                |    Emily & Parker    | Katelyn & Marco  |
 | 2020-02-?? |     TBA          |      TBA                |    Marco & Carolina  |   Parker & Alex  |
 | 2020-03-?? |     TBA          |      TBA                |    Alex & Margaret   |Carolina & Rachel |
@@ -19,15 +19,15 @@ This will currently just be a simple place to find all the (electronic) resource
 
 ## Groups for next meeting (2019-10-01)
 
-| Group 1 (Gail)  |Group 2 (James)  |
+| Group 1 (Katelyn)  |Group 2 (Maria)  |
 |:---------------:|:---------------:|
-| Kelsey           | Banu            |
-| Carolina           | Margaret          |
-| Tien         | Katelyn        |
-| Tim          | Parker           |
-| Marco          | Emily             |
-| Rachel            | Alex            |
-| Maria        | Kelle           |
+| James           | Emily            |
+| Marco           | Rachel          |
+| Gail        | Tien     |
+| Kelle         | Banu           |
+| Carolina          | Margaret             |
+| Kelsey           | Tim            |
+| Alex        | Parker           |
 
 ## [Reviewer Instructions]({{"/assets/Wri.Init.Neuro_instructions.docx" | relative_url}})
 
