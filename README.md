@@ -12,22 +12,22 @@ This will currently just be a simple place to find all the (electronic) resource
 | 2019-10-01 | Megan Knight     |  Writing in Pedagogy    |     Gail & James     |  Kelsey & Banu   |
 | 2019-11-05 | Mark Blumberg    | Popular Science Writing |    Maria & Katelyn   |  James & Emily   |
 | 2019-12-03 |     TBA          |      TBA                |    Emily & Parker    | Katelyn & Marco  |
-| 2020-02-?? |     TBA          |      TBA                |    Marco & Carolina  |   Parker & Alex  |
+| 2020-02-04 |     Dan Tranel          |      Paper Writing              |    Marco & Carolina  |   Parker & Alex  |
 | 2020-03-?? |     TBA          |      TBA                |    Alex & Margaret   |Carolina & Rachel |
 | 2020-04-?? |     TBA          |      TBA                |    Rachel & Kelle    |    Tien & Tim    |
 | 2020-05-?? |     TBA          |      TBA                |      Tien & Tim      |Kelle & Margaret  |
 
 ## Groups for next meeting (2019-10-01)
 
-| Group 1 (Katelyn)  |Group 2 (Maria)  |
+| Group 1 (Marco)  |Group 2 (Carolina)  |
 |:---------------:|:---------------:|
-| James           | Emily            |
-| Marco           | Rachel          |
-| Gail        | Tien     |
-| Kelle         | Banu           |
-| Carolina          | Margaret             |
-| Kelsey           | Tim            |
-| Alex        | Parker           |
+| Parker           | Alex            |
+| Katelyn           | Kelle          |
+| Margaret        | Kelsey     |
+| James         | Gail           |
+| Emily          | Tim             |
+| Maria           | Rachel          |
+| Tien        |            |
 
 ## [Reviewer Instructions]({{"/assets/Wri.Init.Neuro_instructions.docx" | relative_url}})
 
